@@ -9,4 +9,6 @@ Código: 57439
 Este es el típico juego de snake, en el cual cada vez que coma aumentará su tamaño 
 y cuando este choque con su cola o la pared saldrá un game over en la pantalla.
 
-Para reiniciar el juego será necesario pulsar la tecla de espacio o "space".
+Para **reiniciar** el juego será necesario pulsar la tecla de espacio o "space".
+
+La serpiente sólo se **moverá** si se pulsa la tecla de: arriba, abajo, derecha e izquierda.
